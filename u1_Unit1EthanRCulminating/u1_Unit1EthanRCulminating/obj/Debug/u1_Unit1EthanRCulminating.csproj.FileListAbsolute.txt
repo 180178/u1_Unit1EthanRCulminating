@@ -1,0 +1,15 @@
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\obj\Debug\u1_Unit1EthanRCulminating.csprojResolveAssemblyReference.cache
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\obj\Debug\MainWindow.g.cs
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\obj\Debug\App.g.cs
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\obj\Debug\u1_Unit1EthanRCulminating_MarkupCompile.cache
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\obj\Debug\u1_Unit1EthanRCulminating_MarkupCompile.lref
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\bin\Debug\u1_Unit1EthanRCulminating.exe.config
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\bin\Debug\u1_Unit1EthanRCulminating.exe
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\bin\Debug\u1_Unit1EthanRCulminating.pdb
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\obj\Debug\MainWindow.baml
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\obj\Debug\u1_Unit1EthanRCulminating.g.resources
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\obj\Debug\u1_Unit1EthanRCulminating.Properties.Resources.resources
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\obj\Debug\u1_Unit1EthanRCulminating.csproj.GenerateResource.Cache
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\obj\Debug\u1_Unit1EthanRCulminating.csproj.CoreCompileInputs.cache
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\obj\Debug\u1_Unit1EthanRCulminating.exe
+\\HHSDC\180178$\My Documents\ICS4U\Unit 1\u1_Unit1EthanRCulminating\u1_Unit1EthanRCulminating\obj\Debug\u1_Unit1EthanRCulminating.pdb
